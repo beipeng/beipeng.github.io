@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Bei Peng"
-  avatar           : "bpeng.png"
+  avatar           : "http://beipeng.github.io/files/bpeng.jng"
   bio              : "Postdoctoral Researcher, Department of Computer Science, University of Oxford"
-  location         : "Robert Hooke Building, Parks Road, Oxford OX1 3PR"
+  location         : "Robert Hooke Building,<br> Parks Road, Oxford OX1 3PR"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=I1r7hQcAAAAJ"
   email            : "bei.peng@cs.ox.ac.uk"
