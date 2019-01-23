@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Investigating How Non-Expert Humans Design Curricula
+## <u>Investigating How Non-Expert Humans Design Curricula</u>
 In this project, we are interested in interactive learning setting where humans could design a curriculum of tasks and study how they design curricula. A better understanding of the curriculum-design strategies used by non-expert humans may help us to 1) understand the general principles that make some curriculum-design strategies better than others, and 2) inspire the design of new machine-learning
 algorithms and interfaces that better accommodate the natural tendencies of human trainers.
 
@@ -13,7 +13,7 @@ algorithms and interfaces that better accommodate the natural tendencies of huma
   > <b>Curriculum Design for Machine Learners in Sequential Decision Tasks</b> <br>
 <b>Bei Peng</b>, James MacGlashan, Robert Loftin, Michael L. Littman, David L. Roberts, and Matthew E. Taylor. <i>IEEE Transactions on Emerging Topics in Computational Intelligence, 2018. </i>[[pdf]](http://beipeng.github.io/files/2018ieee-tetci-peng.pdf)
 
-## Adapting Agent Action Speed to Improve Task Learning from Humans <b>[[Video]](https://www.youtube.com/watch?v=AJQSGD_XPrk)</b>
+## <u>Adapting Agent Action Speed to Improve Task Learning from Humans <b>[[Video]](https://www.youtube.com/watch?v=AJQSGD_XPrk)</b></u>
 In this project, we aim to design a better representation of the learning agent that is able to elicit more natural and effective communication between the human trainer and the learner, while treating human feedback as discrete communication that depends probabilistically on the trainer’s target policy. This is different than most exisitng work on Interactive Reinforcement Learning, where they focus on interpreting and incorporating non-expert human feedback to speed up learning.
 
 - <b>Related Papers:</b>
@@ -25,7 +25,7 @@ Bei Peng, James MacGlashan, Robert Loftin, Michael L. Littman, David L. Roberts,
   
   > [Animal training techniques teach robots new tricks](https://www.sciencedaily.com/releases/2016/05/160516125939.htm) [Science Daily]
 
-## Learning from Discrete Human Feedback
+## <u>Learning from Discrete Human Feedback</u>
 In this project, we consider the problem of a human trainer teaching an agent via providing positive or negative feedback. 
 Most existing work on Interactive Reinforcement Learning has treated human feedback as a numerical value that the agent 
 seeks to maximize, and has assumed that all trainers will give feedback in the same way when teaching the same behavior. 
@@ -45,7 +45,7 @@ Robert Loftin, Bei Peng, James MacGlashan, Michael Littman, Matthew E. Taylor, D
   > <b>A Strategy-Aware Technique for Learning Behaviors from Discrete Human Feedback</b> <br>
 Robert Loftin, James MacGlashan, Bei Peng, Machiael L. Littman, Matthew E. Taylor, Jeff Huang, and David L. Roberts. <i>In Proceedings of the 28th AAAI Conference on Artificial Intelligence (AAAI), July 2014. </i>[[pdf]](http://beipeng.github.io/files/2014aaai-loftin.pdf)
 
-## Training an Agent to Ground Commands with Reward and Punishment
+## <u>Training an Agent to Ground Commands with Reward and Punishment</u>
 As increasing need for humans to convey complex tasks to robots without any technical expertise, conveying tasks through 
 natural language provides an intuitive interface. But it needs the agent to learn a grounding of natural language commands. 
 In this work, we developed a simple simulated home environment in which the robot needs to complete some tasks via learning 
@@ -55,7 +55,7 @@ from human positive or negative feedback.
   > <b>Language and Policy Learning from Human-delivered Feedback</b> <br>
 Bei Peng, Robert Loftin, James MacGlashan, Michael L. Littman, Matthew E. Taylor, and David L. Roberts. <i>In Proceedings of the Machine Learning for Social Robotics workshop (at ICRA), May 2015. </i>[[pdf]](http://beipeng.github.io/files/2015icra-peng.pdf)
 
-## Agent Corrections to Pac-Man from the Crowd
+## <u>Agent Corrections to Pac-Man from the Crowd</u>
 Reinforcement learning suffers from poor initial performance. Our approach uses crowdsourcing to provide non-expert suggestions 
 to speed up learning of an RL agent. Currently, we are using Mrs. Pac-Man as our application domain for its popularity as a game. 
 From our studies, we have already concluded that crowdsourcing, although non-experts, are good in identifying mistakes. We are now 
