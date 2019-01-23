@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 [Click to View My CV [PDF]](http://beipeng.github.io/files/beipeng_cv.pdf)
