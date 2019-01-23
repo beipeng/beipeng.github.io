@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bei Peng"
-  avatar           : "bpeng.jng"
+  avatar           : "bpeng.png {: height="400px" width="760px"}"
   bio              : "Postdoctoral Researcher, Department of Computer Science, University of Oxford"
   location         : "Robert Hooke Building, Oxford"
   employer         :
