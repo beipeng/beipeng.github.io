@@ -9,22 +9,25 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2020
 ***
+  - <b>Optimistic Exploration even with a Pessimistic Initialisation</b> <br>
+Tabish Rashid, <b>Bei Peng</b>, Wendelin Böhmer, Shimon Whiteson. <i>International Conference on Learning Representations (ICLR), 2020. </i>[[pdf]](https://arxiv.org/pdf/2002.12174.pdf)
+
   - <b>Deep Multi-Agent Reinforcement Learning for Decentralized Continuous Cooperative Control</b> <br>
-Christian Schroeder de Witt*, <b>Bei Peng*</b>, Pierre-Alexandre Kamienny, Philip Torr, Wendelin Böhmer, Shimon Whiteson. <i>arXiv preprint arXiv:2003.06709, March 2020. </i>[[pdf]](http://beipeng.github.io/files/2003.06709.pdf)
+Christian Schroeder de Witt*, <b>Bei Peng*</b>, Pierre-Alexandre Kamienny, Philip Torr, Wendelin Böhmer, Shimon Whiteson. <i>arXiv preprint arXiv:2003.06709, 2020. </i>[[pdf]](https://arxiv.org/pdf/2003.06709.pdf)
 
   - <b>Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey</b> <br>
-Sanmit Narvekar, <b>Bei Peng</b>, Matteo Leonetti, Jivko Sinapov, Matthew E. Taylor, Peter Stone. <i>arXiv preprint arXiv:2003.04960, March 2020. </i>[[pdf]](http://beipeng.github.io/files/2003.04960.pdf)
+Sanmit Narvekar, <b>Bei Peng</b>, Matteo Leonetti, Jivko Sinapov, Matthew E. Taylor, Peter Stone. <i>arXiv preprint arXiv:2003.04960, 2020. </i>[[pdf]](https://arxiv.org/pdf/2003.04960.pdf)
 
 ## 2019
 ***
   - <b>VIABLE: Fast Adaptation via Backpropagating Learned Loss</b> <br>
-Leo Feng, Luisa Zintgraf, <b>Bei Peng</b>, Shimon Whiteson. <i>3rd Workshop on Meta-Learning at NeurIPS, November 2019. </i>[[pdf]](http://beipeng.github.io/files/1911.13159.pdf)
+Leo Feng, Luisa Zintgraf, <b>Bei Peng</b>, Shimon Whiteson. <i>3rd Workshop on Meta-Learning at NeurIPS, 2019. </i>[[pdf]](https://arxiv.org/pdf/1911.13159.pdf)
 
-  - <b>Optimistic Exploration even with a Pessimistic Initialisation</b> <br>
-Tabish Rashid, <b>Bei Peng</b>, Wendelin Böhmer, Shimon Whiteson. <i>International Conference on Learning Representations (ICLR), September 2019. </i>[[pdf]](http://beipeng.github.io/files/2002.12174.pdf)
+  - <b>Optimistic Exploration with Pessimistic Initialisation</b> <br>
+Tabish Rashid, <b>Bei Peng</b>, Wendelin Böhmer, Shimon Whiteson. <i>2nd Exploration in Reinforcement Learning Workshop at ICML, 2019. </i>[[pdf]](https://drive.google.com/file/d/1OYw8KO5szojLQalr_xohibxR7_axKxqi/view)
 
   - <b>Interactive Learning of Environment Dynamics for Sequential Tasks</b> <br>
-Robert Loftin, <b>Bei Peng</b>, Matthew E. Taylor, Michael L. Littman, David L. Roberts. <i>arXiv preprint arXiv:1907.08478, July 2019. </i>[[pdf]](http://beipeng.github.io/files/1907.08478.pdf)
+Robert Loftin, <b>Bei Peng</b>, Matthew E. Taylor, Michael L. Littman, David L. Roberts. <i>arXiv preprint arXiv:1907.08478, 2019. </i>[[pdf]](https://arxiv.org/pdf/1907.08478.pdf)
 
 ## 2018
 ***
