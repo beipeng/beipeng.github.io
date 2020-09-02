@@ -22,7 +22,7 @@ Shariq Iqbal, Christian A. Schroeder de Witt, <b>Bei Peng</b>, Wendelin Böhmer,
 Tabish Rashid, Gregory Farquhar, <b>Bei Peng</b>, Shimon Whiteson. <i>arXiv preprint arXiv:2006.10800, 2020. </i>[[pdf]](https://arxiv.org/abs/2006.10800)
 
 - <b>Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey</b> <br>
-Sanmit Narvekar, <b>Bei Peng</b>, Matteo Leonetti, Jivko Sinapov, Matthew E. Taylor, Peter Stone. <i>arXiv preprint arXiv:2003.04960, 2020. </i>[[pdf]](https://arxiv.org/pdf/2003.04960.pdf)
+Sanmit Narvekar, <b>Bei Peng</b>, Matteo Leonetti, Jivko Sinapov, Matthew E. Taylor, Peter Stone. <i>arXiv preprint arXiv:2003.04960, 2020. </i>[[pdf]](https://arxiv.org/pdf/2003.04960.pdf) <i>Accepted to the Journal of Machine Learning Research (JMLR).</i>
 
 ## 2019
 ***
