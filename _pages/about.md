@@ -16,7 +16,7 @@ I am currently a Postdoctoral Researcher in [Whiteson Research Lab](https://whir
 
 * DEC 2019: Our paper [Optimistic Exploration even with a Pessimistic Initialisation](https://openreview.net/forum?id=r1xGP6VYwH&noteId=r1xGP6VYwH) got accepted at [ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference) in Addis Ababa, Ethiopia!
 
-* NOV 2019: I am now a Non-Stipendiary Lecturer in Computer Science at [St Catherine's College](https://www.stcatz.ox.ac.uk/).
+* NOV 2019: I am now a Non-Stipendiary Lecturer in Computer Science at [St Catherine's College](https://www.stcatz.ox.ac.uk/person/peng-bei/) at University of Oxford.
 
 * JAN 2019: I started my postdoc position in [Whiteson Research Lab](https://whirl.cs.ox.ac.uk/) at [University of Oxford](http://www.ox.ac.uk/).
 
