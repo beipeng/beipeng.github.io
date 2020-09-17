@@ -12,7 +12,7 @@ I am currently a Postdoctoral Researcher in [Whiteson Research Lab](https://whir
 
 
 # Recent News
-* AUG 2020: Our paper [Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey](https://arxiv.org/pdf/2003.04960.pdf) got accepted to the Journal of Machine Learning Research (JMLR).
+* AUG 2020: Our paper [Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey](https://jmlr.org/papers/v21/20-212.html) got accepted to the Journal of Machine Learning Research (JMLR).
 
 * DEC 2019: Our paper [Optimistic Exploration even with a Pessimistic Initialisation](https://openreview.net/forum?id=r1xGP6VYwH&noteId=r1xGP6VYwH) got accepted at [ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference) in Addis Ababa, Ethiopia!
 
