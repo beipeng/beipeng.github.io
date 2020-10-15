@@ -9,20 +9,20 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2020
 ***
+- <b>Weighted QMIX: Improving Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning</b> <br>
+Tabish Rashid, Gregory Farquhar, <b>Bei Peng</b>, Shimon Whiteson. <i>In proceedings of the 34th Conference on Neural Information Processing Systems (NeurIPS), 2020</i>[[pdf]](https://arxiv.org/abs/2006.10800)
+
+- <b>Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey</b> <br>
+Sanmit Narvekar, <b>Bei Peng</b>, Matteo Leonetti, Jivko Sinapov, Matthew E. Taylor, Peter Stone. <i>Journal of Machine Learning Research (JMLR), 21(181):1-50, 2020.</i>[[pdf]](https://jmlr.org/papers/volume21/20-212/20-212.pdf)
+
 - <b>Optimistic Exploration even with a Pessimistic Initialisation</b> <br>
 Tabish Rashid, <b>Bei Peng</b>, Wendelin Böhmer, Shimon Whiteson. <i>International Conference on Learning Representations (ICLR), 2020. </i>[[pdf]](https://arxiv.org/pdf/2002.12174.pdf)
 
 - <b>Deep Multi-Agent Reinforcement Learning for Decentralized Continuous Cooperative Control</b> <br>
-Christian Schroeder de Witt*, <b>Bei Peng* (equal contribution)</b>, Pierre-Alexandre Kamienny, Philip Torr, Wendelin Böhmer, Shimon Whiteson. <i>arXiv preprint arXiv:2003.06709, 2020. </i>[[pdf]](https://arxiv.org/pdf/2003.06709.pdf)
+Christian Schroeder de Witt* (equal contribution), <b>Bei Peng* (equal contribution)</b>, Pierre-Alexandre Kamienny, Philip Torr, Wendelin Böhmer, Shimon Whiteson. <i>arXiv preprint arXiv:2003.06709, 2020. </i>[[pdf]](https://arxiv.org/pdf/2003.06709.pdf)
 
 - <b>AI-QMIX: Attention and Imagination for Dynamic Multi-Agent Reinforcement Learning</b> <br>
 Shariq Iqbal, Christian A. Schroeder de Witt, <b>Bei Peng</b>, Wendelin Böhmer, Shimon Whiteson, Fei Sha. <i>arXiv preprint arXiv:2006.04222, 2020. </i>[[pdf]](https://arxiv.org/abs/2006.04222)
-
-- <b>Weighted QMIX: Expanding Monotonic Value Function Factorisation</b> <br>
-Tabish Rashid, Gregory Farquhar, <b>Bei Peng</b>, Shimon Whiteson. <i>arXiv preprint arXiv:2006.10800, 2020. </i>[[pdf]](https://arxiv.org/abs/2006.10800)
-
-- <b>Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey</b> <br>
-Sanmit Narvekar, <b>Bei Peng</b>, Matteo Leonetti, Jivko Sinapov, Matthew E. Taylor, Peter Stone. <i>arXiv preprint arXiv:2003.04960, 2020. </i>[[pdf]](https://arxiv.org/pdf/2003.04960.pdf) <i>Accepted to the Journal of Machine Learning Research (JMLR).</i>
 
 ## 2019
 ***
