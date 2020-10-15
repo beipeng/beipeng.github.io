@@ -16,10 +16,16 @@ Tabish Rashid, Gregory Farquhar, <b>Bei Peng</b>, Shimon Whiteson. <i>In proceed
 Sanmit Narvekar, <b>Bei Peng</b>, Matteo Leonetti, Jivko Sinapov, Matthew E. Taylor, Peter Stone. <i>Journal of Machine Learning Research (JMLR), 21(181):1-50, 2020. </i>[[pdf]](https://jmlr.org/papers/volume21/20-212/20-212.pdf)
 
 - <b>Optimistic Exploration even with a Pessimistic Initialisation</b> <br>
-Tabish Rashid, <b>Bei Peng</b>, Wendelin Böhmer, Shimon Whiteson. <i>International Conference on Learning Representations (ICLR), 2020. </i>[[pdf]](https://arxiv.org/pdf/2002.12174.pdf)
+Tabish Rashid, <b>Bei Peng</b>, Wendelin Böhmer, Shimon Whiteson. <i>In proceedings of the 8th International Conference on Learning Representations (ICLR), 2020. </i>[[pdf]](https://arxiv.org/pdf/2002.12174.pdf)
 
 - <b>Deep Multi-Agent Reinforcement Learning for Decentralized Continuous Cooperative Control</b> <br>
 Christian Schroeder de Witt* (equal contribution), <b>Bei Peng* (equal contribution)</b>, Pierre-Alexandre Kamienny, Philip Torr, Wendelin Böhmer, Shimon Whiteson. <i>arXiv preprint arXiv:2003.06709, 2020. </i>[[pdf]](https://arxiv.org/pdf/2003.06709.pdf)
+
+- <b>RODE: Learning Roles to Decompose Multi-Agent Tasks</b> <br>
+Tonghan Wang, Tarun Gupta, Anuj Mahajan, <b>Bei Peng</b>, Shimon Whiteson, and Chongjie Zhang. <i>arXiv preprint arXiv:2010.01523, 2020. </i>[[pdf]](https://arxiv.org/abs/2010.01523)
+
+- <b>UneVEn: Universal Value Exploration for Multi-Agent Reinforcement Learning</b> <br>
+Tarun Gupta, Anuj Mahajan, <b>Bei Peng</b>, Wendelin Böhmer, Shimon Whiteson. <i>arXiv preprint arXiv:/2010.02974, 2020. </i>[[pdf]](https://arxiv.org/abs/2010.02974)
 
 - <b>AI-QMIX: Attention and Imagination for Dynamic Multi-Agent Reinforcement Learning</b> <br>
 Shariq Iqbal, Christian A. Schroeder de Witt, <b>Bei Peng</b>, Wendelin Böhmer, Shimon Whiteson, Fei Sha. <i>arXiv preprint arXiv:2006.04222, 2020. </i>[[pdf]](https://arxiv.org/abs/2006.04222)
