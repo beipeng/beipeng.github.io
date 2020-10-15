@@ -12,6 +12,8 @@ I am currently a Postdoctoral Researcher in [Whiteson Research Lab](https://whir
 
 
 # Recent News
+* SEP 2020: Our paper [Weighted QMIX: Improving Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2006.10800.pdf) got accepted at [NeurIPS 2020](https://nips.cc/Conferences/2020/AcceptedPapersInitial).
+
 * AUG 2020: Our paper [Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey](https://jmlr.org/papers/v21/20-212.html) got accepted to the Journal of Machine Learning Research (JMLR).
 
 * DEC 2019: Our paper [Optimistic Exploration even with a Pessimistic Initialisation](https://openreview.net/forum?id=r1xGP6VYwH&noteId=r1xGP6VYwH) got accepted at [ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference) in Addis Ababa, Ethiopia!
