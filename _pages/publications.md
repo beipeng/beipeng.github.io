@@ -9,6 +9,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2020
 ***
+- <b>RODE: Learning Roles to Decompose Multi-Agent Tasks</b> <br>
+Tonghan Wang, Tarun Gupta, Anuj Mahajan, <b>Bei Peng</b>, Shimon Whiteson, and Chongjie Zhang. <i>In proceedings of the 9th International Conference on Learning Representations (ICLR), 2021 </i>[[pdf]](https://arxiv.org/abs/2010.01523)
+
 - <b>Weighted QMIX: Improving Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning</b> <br>
 Tabish Rashid, Gregory Farquhar, <b>Bei Peng</b>, Shimon Whiteson. <i>In proceedings of the 34th Conference on Neural Information Processing Systems (NeurIPS), 2020. </i>[[pdf]](https://arxiv.org/abs/2006.10800)
 
@@ -20,9 +23,6 @@ Tabish Rashid, <b>Bei Peng</b>, Wendelin Böhmer, Shimon Whiteson. <i>In proceed
 
 - <b>Deep Multi-Agent Reinforcement Learning for Decentralized Continuous Cooperative Control</b> <br>
 Christian Schroeder de Witt* (equal contribution), <b>Bei Peng* (equal contribution)</b>, Pierre-Alexandre Kamienny, Philip Torr, Wendelin Böhmer, Shimon Whiteson. <i>arXiv preprint arXiv:2003.06709, 2020. </i>[[pdf]](https://arxiv.org/pdf/2003.06709.pdf)
-
-- <b>RODE: Learning Roles to Decompose Multi-Agent Tasks</b> <br>
-Tonghan Wang, Tarun Gupta, Anuj Mahajan, <b>Bei Peng</b>, Shimon Whiteson, and Chongjie Zhang. <i>arXiv preprint arXiv:2010.01523, 2020. </i>[[pdf]](https://arxiv.org/abs/2010.01523)
 
 - <b>UneVEn: Universal Value Exploration for Multi-Agent Reinforcement Learning</b> <br>
 Tarun Gupta, Anuj Mahajan, <b>Bei Peng</b>, Wendelin Böhmer, Shimon Whiteson. <i>arXiv preprint arXiv:/2010.02974, 2020. </i>[[pdf]](https://arxiv.org/abs/2010.02974)
