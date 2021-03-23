@@ -12,6 +12,8 @@ I am currently a Postdoctoral Researcher in [Whiteson Research Lab](https://whir
 
 
 # Recent News
+* JAN 2021: Our paper [RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/abs/2010.01523) got accepted at [ICLR 2021](https://openreview.net/group?id=ICLR.cc/2021/Conference#poster-presentations).
+* 
 * SEP 2020: Our paper [Weighted QMIX: Improving Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2006.10800.pdf) got accepted at [NeurIPS 2020](https://nips.cc/Conferences/2020/AcceptedPapersInitial).
 
 * AUG 2020: Our paper [Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey](https://jmlr.org/papers/v21/20-212.html) got accepted to the Journal of Machine Learning Research (JMLR).
