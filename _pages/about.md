@@ -12,6 +12,8 @@ I am currently a Postdoctoral Researcher in [Whiteson Research Lab](https://whir
 
 
 # Recent News
+* MAY 2021: Two of our papers [Randomized Entity-wise Factorization for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2006.04222) and [UneVEn: Universal Value Exploration for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2010.02974) got accepted at [ICML 2021](https://icml.cc/Conferences/2021/CallForPapers).
+
 * JAN 2021: Our paper [RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/abs/2010.01523) got accepted at [ICLR 2021](https://openreview.net/group?id=ICLR.cc/2021/Conference#poster-presentations).
 
 * SEP 2020: Our paper [Weighted QMIX: Improving Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2006.10800.pdf) got accepted at [NeurIPS 2020](https://nips.cc/Conferences/2020/AcceptedPapersInitial).
