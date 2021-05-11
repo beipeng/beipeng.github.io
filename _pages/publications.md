@@ -10,7 +10,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Preprints
 ***
 - <b>FACMAC: Factored Multi-Agent Centralised Policy Gradients</b> <br>
-<b>Bei Peng*</b>, Tabish Rashid*, Christian Schroeder de Witt*, Pierre-Alexandre Kamienny, Philip Torr, Wendelin Böhmer, Shimon Whiteson. <i>arXiv preprint arXiv:2003.06709, 2021. </i>[[pdf]](https://arxiv.org/pdf/2003.06709.pdf)
+ <b>Bei Peng*</b>, Tabish Rashid*, Christian Schroeder de Witt*, Pierre-Alexandre Kamienny, Philip Torr, Wendelin Böhmer, Shimon Whiteson. <i>arXiv preprint arXiv:2003.06709, 2021. </i>[[pdf]](https://arxiv.org/pdf/2003.06709.pdf)
 
 - <b>Interactive Learning of Environment Dynamics for Sequential Tasks</b> <br>
 Robert Loftin, <b>Bei Peng</b>, Matthew E. Taylor, Michael L. Littman, David L. Roberts. <i>arXiv preprint arXiv:1907.08478, 2019. </i>[[pdf]](https://arxiv.org/pdf/1907.08478.pdf)
