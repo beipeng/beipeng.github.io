@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bei Peng"
 title_separator          : "-"
 name                     : &name "Bei Peng"
-description              : &description "Postdoctoral Researcher, Department of Computer Science, University of Oxford"
+description              : &description "Lecturer (Assistant Professor), Department of Computer Science, University of Liverpool"
 url                      : https://beipeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "beipeng.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Bei Peng"
   avatar           : "bpeng.png"
-  bio              : "Postdoctoral Researcher, Department of Computer Science, University of Oxford"
-  location         : "Robert Hooke Building, Oxford"
+  bio              : "Lecturer (Assistant Professor), Department of Computer Science, University of Liverpool"
+  location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=I1r7hQcAAAAJ"
-  email            : "bei.peng@cs.ox.ac.uk"
+  email            : "bei.peng@liverpool.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
