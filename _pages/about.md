@@ -16,6 +16,8 @@ I received my doctorate from the [School of Electrical Engineering and Computer 
 
 
 # Recent News
+* SEP 2021: I am now a Lecturer (Assistant Professor) in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the [University of Liverpool](https://www.liverpool.ac.uk/).
+
 * JULY 2021: We are looking for a PhD student (funded by [CDT in Distributed Algorithms](https://www.liverpool.ac.uk/distributed-algorithms-cdt/)) working on the topic of fully Bayesian reinforcement learning for control of continuous industrial processes at the University of Liverpool, starting October 2021. More details about the PhD project can be found [here](https://www.findaphd.com/phds/project/fully-bayesian-reinforcement-learning-for-control-of-continuous-industrial-processes-epsrc-cdt-in-distributed-algorithms/?p133917). Please follow the instructions [here](https://www.liverpool.ac.uk/distributed-algorithms-cdt/apply/) if you are interested in applying. The closing date is August 29th. 
 
 * MAY 2021: Two of our papers [Randomized Entity-wise Factorization for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2006.04222) and [UneVEn: Universal Value Exploration for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2010.02974) got accepted at [ICML 2021](https://icml.cc/Conferences/2021/CallForPapers).
