@@ -7,18 +7,6 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=I1r7hQcAAAAJ&hl=en).
 
-## Preprints
-***
-- <b>FACMAC: Factored Multi-Agent Centralised Policy Gradients</b> <br>
-<b>Bei Peng (equal contribution)</b>, Tabish Rashid (equal contribution), Christian Schroeder de Witt (equal contribution), Pierre-Alexandre Kamienny, Philip Torr, Wendelin Böhmer, Shimon Whiteson. <i>arXiv preprint arXiv:2003.06709, 2021. </i>[[pdf]](https://arxiv.org/pdf/2003.06709.pdf)
-
-- <b>Regularized Softmax Deep Multi-Agent Q-Learning</b> <br>
-Ling Pan, Tabish Rashid, <b>Bei Peng</b>, Longbo Huang, Shimon Whiteson. <i>arXiv preprint arXiv:2103.11883, 2021. </i>[[pdf]](https://arxiv.org/pdf/2103.11883.pdf)
-
-- <b>Interactive Learning of Environment Dynamics for Sequential Tasks</b> <br>
-Robert Loftin, <b>Bei Peng</b>, Matthew E. Taylor, Michael L. Littman, David L. Roberts. <i>arXiv preprint arXiv:1907.08478, 2019. </i>[[pdf]](https://arxiv.org/pdf/1907.08478.pdf)
-
-
 ## Journals
 ***
 - <b>Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey</b> <br>
@@ -33,6 +21,12 @@ Robert Loftin, <b>Bei Peng</b>, James MacGlashan, Michael L. Littman, Matthew E.
 
 ## Conferences
 ***
+- <b>FACMAC: Factored Multi-Agent Centralised Policy Gradients</b> <br>
+<b>Bei Peng (equal contribution)</b>, Tabish Rashid (equal contribution), Christian Schroeder de Witt (equal contribution), Pierre-Alexandre Kamienny, Philip Torr, Wendelin Böhmer, Shimon Whiteson. <i>In proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), 2021. </i>[[pdf]](https://arxiv.org/pdf/2003.06709.pdf)
+
+- <b>Regularized Softmax Deep Multi-Agent Q-Learning</b> <br>
+Ling Pan, Tabish Rashid, <b>Bei Peng</b>, Longbo Huang, Shimon Whiteson. <i>In proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), 2021. </i>[[pdf]](https://arxiv.org/pdf/2103.11883.pdf)
+
 - <b>UneVEn: Universal Value Exploration for Multi-Agent Reinforcement Learning</b> <br>
 Tarun Gupta, Anuj Mahajan, <b>Bei Peng</b>, Wendelin Böhmer, Shimon Whiteson. <i>In proceedings of the 38th International Conference on Machine Learning (ICML), 2021. </i>[[pdf]](https://arxiv.org/abs/2010.02974)
 
@@ -103,3 +97,9 @@ Robert Loftin, <b>Bei Peng</b>, James MacGlashan, Michael Littman, Matthew E. Ta
 
 - <b>Training an Agent to Ground Commands with Reward and Punishment</b> <br>
 James Macglashan, Michael L. Littman, Robert Loftin, <b>Bei Peng</b>, David Roberts, and Matthew E. Taylor. <i>In Proceedings of the Machine Learning for Interactive Systems workshop (at AAAI), July 2014. </i>[[pdf]](http://beipeng.github.io/files/2014mlis-james.pdf)
+
+## Preprints
+***
+- <b>Interactive Learning of Environment Dynamics for Sequential Tasks</b> <br>
+Robert Loftin, <b>Bei Peng</b>, Matthew E. Taylor, Michael L. Littman, David L. Roberts. <i>arXiv preprint arXiv:1907.08478, 2019. </i>[[pdf]](https://arxiv.org/pdf/1907.08478.pdf)
+
