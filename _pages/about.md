@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Lecturer (Assistant Professor) in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the [University of Liverpool](https://www.liverpool.ac.uk/). Prior to Liverpool, I spent 2.5 years as a Postdoctoral Researcher in the [Whiteson Research Lab](https://whirl.cs.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), advised by [Shimon Whiteson](https://www.cs.ox.ac.uk/people/shimon.whiteson/). I was also a Non-Stipendiary Lecturer in Computer Science at [St Catherine's College](https://www.stcatz.ox.ac.uk/person/peng-bei/) at the University of Oxford. 
+I am currently a Lecturer (Assistant Professor) in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the [University of Liverpool](https://www.liverpool.ac.uk/). Prior to Liverpool, I spent about 2.5 years as a Postdoctoral Researcher in the [Whiteson Research Lab](https://whirl.cs.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), advised by [Shimon Whiteson](https://www.cs.ox.ac.uk/people/shimon.whiteson/). I was also a Non-Stipendiary Lecturer in Computer Science at [St Catherine's College](https://www.stcatz.ox.ac.uk/person/peng-bei/) at the University of Oxford. 
 
 My research focuses mainly on (deep) reinforcement learning, multi-agent systems, interactive machine learning, and curriculum learning. My primary research goal is to develop reinforcement learning algorithms that are more sample-efficient, robust, and scalable, with or without interacting with humans. During my postdoc, I worked mainly on developing new deep multi-agent reinforcement learning algorithms for discrete and continuous cooperative multi-agent tasks. My PhD research focuses on interactive machine learning and curriculum learning, where we study how non-expert humans want to teach the agent to solve new complex sequential decision making tasks and how to incorporate these insights into the development of new machine learning algorithms. 
 
@@ -16,11 +16,14 @@ I received my doctorate from the [School of Electrical Engineering and Computer 
 
 
 # Recent News
+
+* SEP 2021: Two of our papers [FACMAC: Factored Multi-Agent Centralised Policy Gradients](https://arxiv.org/abs/2003.06709) and [Regularized Softmax Deep Multi-Agent Q-Learning](https://arxiv.org/abs/2103.11883) got accepted at [NeurIPS 2021](https://nips.cc/Conferences/2021/CallForPapers).
+
 * SEP 2021: I am now a Lecturer (Assistant Professor) in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the [University of Liverpool](https://www.liverpool.ac.uk/).
 
 * JULY 2021: We are looking for a PhD student (funded by [CDT in Distributed Algorithms](https://www.liverpool.ac.uk/distributed-algorithms-cdt/)) working on the topic of fully Bayesian reinforcement learning for control of continuous industrial processes at the University of Liverpool, starting October 2021. More details about the PhD project can be found [here](https://www.findaphd.com/phds/project/fully-bayesian-reinforcement-learning-for-control-of-continuous-industrial-processes-epsrc-cdt-in-distributed-algorithms/?p133917). Please follow the instructions [here](https://www.liverpool.ac.uk/distributed-algorithms-cdt/apply/) if you are interested in applying. The closing date is August 29th. 
 
-* MAY 2021: Two of our papers [Randomized Entity-wise Factorization for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2006.04222) and [UneVEn: Universal Value Exploration for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2010.02974) got accepted at [ICML 2021](https://icml.cc/Conferences/2021/CallForPapers).
+* MAY 2021: Two of our papers [Randomized Entity-wise Factorization for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2006.04222) and [UneVEn: Universal Value Exploration for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2010.02974) got accepted at [ICML 2021](https://icml.cc/Conferences/2021/Schedule?type=Poster).
 
 * JAN 2021: Our paper [RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/abs/2010.01523) got accepted at [ICLR 2021](https://openreview.net/group?id=ICLR.cc/2021/Conference#poster-presentations).
 
