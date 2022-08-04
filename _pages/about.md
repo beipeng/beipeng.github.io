@@ -17,6 +17,8 @@ I received my doctorate from the [School of Electrical Engineering and Computer 
 
 # Recent News
 
+* JUL 2022: I gave a lecture on Introduction to Multi-Agent Reinforcement Learning at the [CIFAR 2022 Deep Learning + Reinforcement Learning (DLRL) Summer School](https://events.cifar.ca/website/39930/speakers/). 
+
 * MAY 2022: I gave an invited talk on Cooperative Multi-Agent Reinforcement Learning at the [Adaptive and Learning Agents (ALA) Workshop](https://ala2022.github.io/) at AAMAS 2022.  
 
 * SEP 2021: Two of our papers [FACMAC: Factored Multi-Agent Centralised Policy Gradients](https://arxiv.org/abs/2003.06709) and [Regularized Softmax Deep Multi-Agent Q-Learning](https://arxiv.org/abs/2103.11883) got accepted at [NeurIPS 2021](https://nips.cc/Conferences/2021/CallForPapers).
