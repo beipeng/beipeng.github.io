@@ -17,6 +17,8 @@ I received my doctorate from the [School of Electrical Engineering and Computer 
 
 # Recent News
 
+* AUG 2022: Our paper Dependable Learning-Enabled Multiagent Systems was accepted for publication in the [Special Issue: Multi-Agent Systems Research in the United Kingdom In AI Communications, The European Journal of Artificial Intelligence](https://www.turing.ac.uk/research/research-programmes/artificial-intelligence-ai/special-issue-multi-agent-systems-research-uk).
+
 * JUL 2022: I gave a lecture on Introduction to Multi-Agent Reinforcement Learning at the [CIFAR 2022 Deep Learning + Reinforcement Learning (DLRL) Summer School](https://events.cifar.ca/website/39930/speakers/). 
 
 * MAY 2022: I gave an invited talk on Cooperative Multi-Agent Reinforcement Learning at the [Adaptive and Learning Agents (ALA) Workshop](https://ala2022.github.io/) at AAMAS 2022.  
