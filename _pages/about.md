@@ -17,6 +17,8 @@ I received my doctorate from the [School of Electrical Engineering and Computer 
 
 # Recent News
 
+* JUN 2023: I received the Grace Hopper Celebration 2023 Faculty Scholarship. 
+  
 * MAR 2023: Our paper [Curriculum Learning for Relative Overgeneralization](https://arxiv.org/abs/2212.02733) was accepted at the [Adaptive and Learning Agents (ALA) Workshop](https://alaworkshop2023.github.io/#accepted) at AAMAS 2023. It is Lin's first workshop paper and the result of his hard work on his final year undergraduate project.
 
 * AUG 2022: Our paper Dependable Learning-Enabled Multiagent Systems was accepted for publication in the [Special Issue: Multi-Agent Systems Research in the United Kingdom In AI Communications, The European Journal of Artificial Intelligence](https://www.turing.ac.uk/research/research-programmes/artificial-intelligence-ai/special-issue-multi-agent-systems-research-uk).
