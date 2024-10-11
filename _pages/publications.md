@@ -5,10 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=I1r7hQcAAAAJ&hl=en).
+Please check [my Google Scholar](https://scholar.google.com/citations?user=I1r7hQcAAAAJ&hl=en) for a full list of my papers/publications. 
 
 ## Journals
 ***
+- <b>Centralised Rehearsal of Decentralised Cooperation: Multi-Agent Reinforcement Learning for the Scalable Coordination of Residential Energy Flexibility</b> <br>
+Flora Charbonnier, <b>Bei Peng</b>, Julie Vienne, Elena Stai, Thomas Moisten, and Malcolm McCulloch. <i>Applied Energy, 2024.</i>[[pdf]](https://www.sciencedirect.com/science/article/pii/S0306261924017896)
+
+- <b>Dependable Learning-Enabled Multiagent Systems</b><br>
+Xiaowei Huang, <b>Bei Peng</b>, and Xingyu Zhao. <i>AI Communications, 2022.</i>[[pdf]](https://dl.acm.org/doi/10.3233/AIC-220128)
+
 - <b>Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey</b> <br>
 Sanmit Narvekar, <b>Bei Peng</b>, Matteo Leonetti, Jivko Sinapov, Matthew E. Taylor, Peter Stone. <i>Journal of Machine Learning Research (JMLR), 21(181):1-50, 2020. </i>[[pdf]](https://jmlr.org/papers/volume21/20-212/20-212.pdf)
 
@@ -21,6 +27,24 @@ Robert Loftin, <b>Bei Peng</b>, James MacGlashan, Michael L. Littman, Matthew E.
 
 ## Conferences
 ***
+- <b>Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning</b> <br>
+Tianhui Zhang, <b>Bei Peng</b>. and Danushka Bollegala. <i>In Proceedings of the Findings of Empirical Methods in Natural Language Processing (EMNLP), 2024.</i>[[pdf]](https://arxiv.org/abs/2404.16807)
+
+- <b>Contextual Transformers for Goal-Oriented Reinforcement Learning</b> <br>
+Oliver Dippel, Alexei Lisitsa, and <b>Bei Peng</b>. <i>In Proceedings of the SGAI International Conference on Artificial Intelligence, AI-2024.</i>
+
+- <b>A Comparison Between Kalman-MLE and KalmanNet for State Estimation with Unknown Noise Parameters</b> <br>
+Bettina Hanlon, Ángel F. García-Fernández, and <b>Bei Peng</b>. <i>In Proceedings of the IEEE International Conference on Multisensor Fusion and Integration, 2024.</i>
+
+- <b>Accelerating Laboratory Automation Through Robot Skill Learning for Sample Scraping</b> <br>
+Gabriella Pizzuto, Hetong Wang, Hatem Fakhruldeen, <b>Bei Peng</b>, Kevin Sebastian luck, Andrew Ian Cooper. <i>In Proceedings of the IEEE 20th International Conference on Automation Science and Engineering (CASE), 2024.</i>[[pdf]](https://arxiv.org/abs/2209.14875)
+
+- <b>Learning to Predict Concept Ordering for Common Sense Generation</b> <br>
+Tianhui Zhang, Danushka Bollegala, and Bei Peng. In Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL), 2023.
+
+- <b>Deep Reinforcement Learning for Continuous Control of Material Thickness</b> <br>
+Oliver Dippel, Alexei Lisitsa, and <b>Bei Peng</b>. <i>In Proceedings of the SGAI International Conference on Artificial Intelligence, AI-2023.</i>[[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-47994-6_30)
+
 - <b>FACMAC: Factored Multi-Agent Centralised Policy Gradients</b> <br>
 <b>Bei Peng (equal contribution)</b>, Tabish Rashid (equal contribution), Christian Schroeder de Witt (equal contribution), Pierre-Alexandre Kamienny, Philip Torr, Wendelin Böhmer, Shimon Whiteson. <i>In proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), 2021. </i>[[pdf]](https://arxiv.org/pdf/2003.06709.pdf)
 
