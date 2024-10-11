@@ -17,44 +17,48 @@ I received my doctorate from the [School of Electrical Engineering and Computer 
 
 # Recent News
 
+* SEP 2024: Our paper [Centralised Rehearsal of Decentralised Cooperation: Multi-Agent Reinforcement Learning for the Scalable Coordination of Residential Energy Flexibility](https://www.sciencedirect.com/science/article/pii/S0306261924017896?via%3Dihub) has been accepted for publication in Applied Energy.
+
+* SEP 2024: Our paper [Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning](https://arxiv.org/abs/2404.16807) got accepted at the Findings of the Conference on Empirical Methods in Natural Language Processing.
+
+* AUG 2024: Our paper [Accelerating Laboratory Automation Through Robot Skill Learning for Sample Scraping](https://arxiv.org/abs/2209.14875) got accepted at IEEE CASE 2024 and was selected as a finalist for the [Best Healthcare Automation Paper Award](https://2024.ieeecase.org/awards/).
+  
+* AUG 2024: Our paper Contextual Transformers for Goal-Oriented Reinforcement Learning got accepted at the SGAI International Conference on Artificial Intelligence.
+
+* FEB 2024: I served as the Co-Chair for the [Competition Track of IJCAI 2024](https://ijcai24.org/call-for-competitions-and-challenges/). 
+  
+* OCT 2023: I gave an invited talk at the Game Theory and Machine Learning Workshop at London School of Economics.
+
+* OCT 2023: I served as a Panellist in the [RL-CONFROM Workshop at IROS 2023](https://rlconform-workshop.github.io/panels.html).
+
+* AUG 2023: Our paper [Deep Reinforcement Learning for Continuous Control of Material Thickness](https://link.springer.com/chapter/10.1007/978-3-031-47994-6_30) got accepted at the SGAI International Conference on Artificial Intelligence.
+
 * JUN 2023: I received the Grace Hopper Celebration 2023 Faculty Scholarship. 
   
-* MAR 2023: Our paper [Curriculum Learning for Relative Overgeneralization](https://arxiv.org/abs/2212.02733) was accepted at the [Adaptive and Learning Agents (ALA) Workshop](https://alaworkshop2023.github.io/#accepted) at AAMAS 2023. It is Lin's first workshop paper and the result of his hard work on his final year undergraduate project.
+* MAR 2023: Our paper [Curriculum Learning for Relative Overgeneralization](https://arxiv.org/abs/2212.02733) was accepted at the Adaptive and Learning Agents (ALA) Workshop at AAMAS 2023. It is Lin's first workshop paper and the result of his hard work on his final year undergraduate project.
 
-* AUG 2022: Our paper Dependable Learning-Enabled Multiagent Systems was accepted for publication in the [Special Issue: Multi-Agent Systems Research in the United Kingdom In AI Communications, The European Journal of Artificial Intelligence](https://www.turing.ac.uk/research/research-programmes/artificial-intelligence-ai/special-issue-multi-agent-systems-research-uk).
+* AUG 2022: Our paper [Dependable Learning-Enabled Multiagent Systems](https://dl.acm.org/doi/10.3233/AIC-220128) has been accepted for publication in AI Communications.
 
 * JUL 2022: I gave a lecture on Introduction to Multi-Agent Reinforcement Learning at the [CIFAR 2022 Deep Learning + Reinforcement Learning (DLRL) Summer School](https://events.cifar.ca/website/39930/speakers/). 
 
-* MAY 2022: I gave an invited talk on Cooperative Multi-Agent Reinforcement Learning at the [Adaptive and Learning Agents (ALA) Workshop](https://ala2022.github.io/) at AAMAS 2022.  
+* MAY 2022: I gave an invited talk on Cooperative Multi-Agent Reinforcement Learning at the [Adaptive and Learning Agents (ALA) Workshop at AAMAS 2022](https://ala2022.github.io/).  
 
-* SEP 2021: Two of our papers [FACMAC: Factored Multi-Agent Centralised Policy Gradients](https://arxiv.org/abs/2003.06709) and [Regularized Softmax Deep Multi-Agent Q-Learning](https://arxiv.org/abs/2103.11883) got accepted at [NeurIPS 2021](https://nips.cc/Conferences/2021/CallForPapers).
+* SEP 2021: Two of our papers [FACMAC: Factored Multi-Agent Centralised Policy Gradients](https://arxiv.org/abs/2003.06709) and [Regularized Softmax Deep Multi-Agent Q-Learning](https://arxiv.org/abs/2103.11883) got accepted at NeurIPS 2021.
 
 * SEP 2021: I gave an invited talk at the Transparent Agency and Learning, a CINEMENTAS workshop. 
 
-* SEP 2021: I am now a Lecturer (Assistant Professor) in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the [University of Liverpool](https://www.liverpool.ac.uk/).
+* SEP 2021: I am now a Lecturer in the Department of Computer Science at the University of Liverpool.
 
-* MAY 2021: Two of our papers [Randomized Entity-wise Factorization for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2006.04222) and [UneVEn: Universal Value Exploration for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2010.02974) got accepted at [ICML 2021](https://icml.cc/Conferences/2021/Schedule?type=Poster).
+* MAY 2021: Two of our papers [Randomized Entity-wise Factorization for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2006.04222) and [UneVEn: Universal Value Exploration for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2010.02974) got accepted at ICML 2021.
 
-* JAN 2021: Our paper [RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/abs/2010.01523) got accepted at [ICLR 2021](https://openreview.net/group?id=ICLR.cc/2021/Conference#poster-presentations).
+* JAN 2021: Our paper [RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/abs/2010.01523) got accepted at ICLR 2021.
 
-* SEP 2020: Our paper [Weighted QMIX: Improving Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2006.10800.pdf) got accepted at [NeurIPS 2020](https://nips.cc/Conferences/2020/AcceptedPapersInitial).
+* SEP 2020: Our paper [Weighted QMIX: Improving Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2006.10800.pdf) got accepted at NeurIPS 2020.
 
-* AUG 2020: Our paper [Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey](https://jmlr.org/papers/v21/20-212.html) got accepted to the Journal of Machine Learning Research (JMLR).
+* AUG 2020: Our paper [Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey](https://jmlr.org/papers/v21/20-212.html) has been accepted for publication at Journal of Machine Learning Research.
 
-* DEC 2019: Our paper [Optimistic Exploration even with a Pessimistic Initialisation](https://openreview.net/forum?id=r1xGP6VYwH&noteId=r1xGP6VYwH) got accepted at [ICLR 2020](https://openreview.net/group?id=ICLR.cc/2020/Conference) in Addis Ababa, Ethiopia!
+* DEC 2019: Our paper [Optimistic Exploration even with a Pessimistic Initialisation](https://openreview.net/forum?id=r1xGP6VYwH&noteId=r1xGP6VYwH) got accepted at ICLR 2020.
 
-* NOV 2019: I am now a Non-Stipendiary Lecturer in Computer Science at [St Catherine's College](https://www.stcatz.ox.ac.uk/person/peng-bei/) at University of Oxford.
+* NOV 2019: I am now a Non-Stipendiary Lecturer in Computer Science at [St Catherine's College](https://www.stcatz.ox.ac.uk/person/peng-bei/) at the University of Oxford.
 
-* JAN 2019: I started my postdoc position in [Whiteson Research Lab](https://whirl.cs.ox.ac.uk/) at [University of Oxford](http://www.ox.ac.uk/).
-
-* OCT 2018: I am now doing my internship at [Microsoft Research Lab Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/).
-
-* JUL 2018: I defended my Ph.D. dissertation entitled "Learning from Human Teachers: Supporting How People Want to Teach in Interactive Machine Learning."
-
-* JUL 2018: I was selected as an organizer for the [Adaptive Learning Agents Workshop (ALA) at AAMAS 2019](https://ala2019.vub.ac.be/).
-
-* MAR 2018: Our [journal paper](http://beipeng.github.io/files/2018ieee-tetci-peng.pdf) has been accepted for publication in the IEEE Transactions on Emerging Topics in Computational Intelligence.
-
-* MAR 2018: I am now doing my internship at [Borealis AI](https://www.borealisai.com/en/) in Edmonton, Canada.
-
-* JUL 2017: I am now doing my internship at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) in Seattle. 
+* JAN 2019: I started my postdoc position in [Whiteson Research Lab](https://whirl.cs.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/).
