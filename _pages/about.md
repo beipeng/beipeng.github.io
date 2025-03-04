@@ -14,10 +14,11 @@ My research focuses mainly on (deep) reinforcement learning, multi-agent systems
 
 I received my doctorate from the [School of Electrical Engineering and Computer Science](https://school.eecs.wsu.edu/) at [Washington State University](https://wsu.edu/) in 2018, after working for five years at the [Intelligent Robot Learning Lab](https://irll.eecs.wsu.edu/) with my advisor [Matthew E. Taylor](https://drmatttaylor.net/). Before that, I worked as a front-end web developer in Tencent after receiving my Bachelor's degree in Computer Science from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in China in 2012.<br>
 
-$\textcolor{red}{I\ am\ currently\ seeking\ a\ PhD\ student\ to\ work\ on\ reinforcement\ learning\ from\ human\ feedback.\ More\ details\ are\ available\}$ [here.](https://www.findaphd.com/phds/project/improving-deep-reinforcement-learning-through-interactive-human-feedback/?p183214)
 
 # Recent News
 
+* MAR 2025: I am currently seeking a PhD student to work with me on reinforcement learning from human feedback. The application deadline is April 18, 2025. More details are available [here.](https://www.findaphd.com/phds/project/improving-deep-reinforcement-learning-through-interactive-human-feedback/?p183214)
+  
 * SEP 2024: Our paper [Centralised Rehearsal of Decentralised Cooperation: Multi-Agent Reinforcement Learning for the Scalable Coordination of Residential Energy Flexibility](https://www.sciencedirect.com/science/article/pii/S0306261924017896?via%3Dihub) has been accepted for publication in Applied Energy.
 
 * SEP 2024: Our paper [Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning](https://arxiv.org/abs/2404.16807) got accepted at the Findings of the Conference on Empirical Methods in Natural Language Processing.
