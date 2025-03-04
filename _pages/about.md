@@ -43,23 +43,3 @@ I received my doctorate from the [School of Electrical Engineering and Computer 
 * JUL 2022: I gave a lecture on Introduction to Multi-Agent Reinforcement Learning at the [CIFAR 2022 Deep Learning + Reinforcement Learning (DLRL) Summer School](https://events.cifar.ca/website/39930/speakers/). 
 
 * MAY 2022: I gave an invited talk on Cooperative Multi-Agent Reinforcement Learning at the [Adaptive and Learning Agents (ALA) Workshop at AAMAS 2022](https://ala2022.github.io/).  
-
-* SEP 2021: Two of our papers [FACMAC: Factored Multi-Agent Centralised Policy Gradients](https://arxiv.org/abs/2003.06709) and [Regularized Softmax Deep Multi-Agent Q-Learning](https://arxiv.org/abs/2103.11883) got accepted at NeurIPS 2021.
-
-* SEP 2021: I gave an invited talk at the Transparent Agency and Learning, a CINEMENTAS workshop. 
-
-* SEP 2021: I am now a Lecturer in the Department of Computer Science at the University of Liverpool.
-
-* MAY 2021: Two of our papers [Randomized Entity-wise Factorization for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2006.04222) and [UneVEn: Universal Value Exploration for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2010.02974) got accepted at ICML 2021.
-
-* JAN 2021: Our paper [RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/abs/2010.01523) got accepted at ICLR 2021.
-
-* SEP 2020: Our paper [Weighted QMIX: Improving Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2006.10800.pdf) got accepted at NeurIPS 2020.
-
-* AUG 2020: Our paper [Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey](https://jmlr.org/papers/v21/20-212.html) has been accepted for publication at Journal of Machine Learning Research.
-
-* DEC 2019: Our paper [Optimistic Exploration even with a Pessimistic Initialisation](https://openreview.net/forum?id=r1xGP6VYwH&noteId=r1xGP6VYwH) got accepted at ICLR 2020.
-
-* NOV 2019: I am now a Non-Stipendiary Lecturer in Computer Science at [St Catherine's College](https://www.stcatz.ox.ac.uk/person/peng-bei/) at the University of Oxford.
-
-* JAN 2019: I started my postdoc position in [Whiteson Research Lab](https://whirl.cs.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/).
