@@ -14,6 +14,7 @@ My research focuses mainly on (deep) reinforcement learning, multi-agent systems
 
 I received my doctorate from the [School of Electrical Engineering and Computer Science](https://school.eecs.wsu.edu/) at [Washington State University](https://wsu.edu/) in 2018, after working for five years at the [Intelligent Robot Learning Lab](https://irll.eecs.wsu.edu/) with my advisor [Matthew E. Taylor](https://drmatttaylor.net/). Before that, I worked as a front-end web developer in Tencent after receiving my Bachelor's degree in Computer Science from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in China in 2012.<br>
 
+**I am currently hiring a PhD student to work on reinforcement learning from human feedback. For more details and information on how to apply, see [here](https://www.findaphd.com/phds/project/improving-deep-reinforcement-learning-through-interactive-human-feedback/?p183214). If you are interested in doing a postdoc with me, check out [this opportunity](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).**
 
 # Recent News
 
