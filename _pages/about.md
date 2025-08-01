@@ -16,6 +16,9 @@ My research focuses mainly on (deep) reinforcement learning, multi-agent systems
 **I am currently hiring a PhD student to work on reinforcement learning from human feedback. Feel free to email me if you are interested. Please include your CV and academic transcripts in the email. If you are interested in doing a postdoc with me, check out [this opportunity](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).**
 
 # Recent News
+* July 2025: I served as the Workshop/Tutorial Co-Chair for the [Distributed AI (DAI) Conference](https://www.adai.ai/dai/2025/index.html) 2025. 
+
+* May 2025: Our paper [Evaluating the Evaluation of Diversity in Commonsense Generation](https://aclanthology.org/2025.acl-long.1181/) has been accepted for publication in ACL 2025.
 
 * SEP 2024: Our paper [Centralised Rehearsal of Decentralised Cooperation: Multi-Agent Reinforcement Learning for the Scalable Coordination of Residential Energy Flexibility](https://www.sciencedirect.com/science/article/pii/S0306261924017896?via%3Dihub) has been accepted for publication in Applied Energy.
 
