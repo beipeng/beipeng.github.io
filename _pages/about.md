@@ -13,7 +13,7 @@ I am currently a Lecturer (Assistant Professor) in AI and Applications of AI in 
 My research focuses mainly on (deep) reinforcement learning, multi-agent systems, interactive machine learning, and curriculum learning. My long-term research goal is to develop intelligent autonomous agents that can accomplish sequential decision-making tasks in complex uncertain and dynamic real-world environments, with or without humans in the loop. During my postdoc, I worked mainly on developing new deep multi-agent reinforcement learning algorithms for discrete and continuous cooperative multi-agent tasks. My PhD research focuses on interactive machine learning and curriculum learning, where we study how non-expert humans want to teach the agent to solve new complex sequential decision making tasks and how to incorporate these insights into the development of new machine learning algorithms. 
 
 
-**I am currently recruiting a PhD student to work on reinforcement learning from human feedback. If you are interested, check [here](https://www.findaphd.com/phds/project/improving-deep-reinforcement-learning-through-interactive-human-feedback/?p186459) for more information on how to apply. **
+**I am currently recruiting a PhD student to work on reinforcement learning from human feedback. If you are interested, check [here](https://www.findaphd.com/phds/project/improving-deep-reinforcement-learning-through-interactive-human-feedback/?p186459) for more information on how to apply.**
 
 
 # Recent News
