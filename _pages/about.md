@@ -16,6 +16,12 @@ My research focuses mainly on (deep) reinforcement learning, multi-agent systems
 
 
 # Recent News
+* APR 2026: Our paper [How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?](https://arxiv.org/abs/2602.02924) has been accepted at ICML 2026.
+
+* APR 2026: Our paper [Synthetic Data Generation for Training Diversified Commonsense Reasoning Models](https://arxiv.org/abs/2603.18361) has been accepted at ACL 2026.
+
+* DEC 2025: Our paper [Heuristic Transformer: Belief Augmented In-Context Reinforcement Learning](https://arxiv.org/abs/2511.10251) has been accepted at AAMAS 2026 as an extended abstract.
+
 * SEP 2025: Our paper [MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures](https://arxiv.org/pdf/2506.04195) has been accepted at NeurIPS 2025.
   
 * JUL 2025: I served as the Workshop/Tutorial Co-Chair for the [Distributed AI (DAI) Conference](https://www.adai.ai/dai/2025/index.html) 2025. 
@@ -26,10 +32,8 @@ My research focuses mainly on (deep) reinforcement learning, multi-agent systems
 
 * SEP 2024: Our paper [Centralised Rehearsal of Decentralised Cooperation: Multi-Agent Reinforcement Learning for the Scalable Coordination of Residential Energy Flexibility](https://www.sciencedirect.com/science/article/pii/S0306261924017896?via%3Dihub) has been accepted for publication in Applied Energy.
 
-* SEP 2024: Our paper [Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning](https://arxiv.org/abs/2404.16807) has been accepted at the Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2024).
+* SEP 2024: Our paper [Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning](https://arxiv.org/abs/2404.16807) has been accepted at EMNLP 2024 Findings.
 
 * AUG 2024: Our paper [Accelerating Laboratory Automation Through Robot Skill Learning for Sample Scraping](https://arxiv.org/abs/2209.14875) has been accepted at IEEE CASE 2024 and was selected as a finalist for the [Best Healthcare Automation Paper Award](https://2024.ieeecase.org/awards/).
-  
-* AUG 2024: Our paper Contextual Transformers for Goal-Oriented Reinforcement Learning has been accepted at the SGAI International Conference on Artificial Intelligence 2024.
 
 * FEB 2024: I served as the Co-Chair for the [Competition Track of IJCAI 2024](https://ijcai24.org/call-for-competitions-and-challenges/). 
