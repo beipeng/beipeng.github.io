@@ -16,6 +16,9 @@ My research focuses mainly on (deep) reinforcement learning, multi-agent systems
 
 
 # Recent News
+* AUG 2026: Our papers [Evaluating Criterion-Conditioned Behaviour of Large Language Models in
+Content Moderation](https://arxiv.org/abs/2609.03814) and [Online Self-Weighted Fine-Tuning](https://arxiv.org/abs/2609.00734) have been accepted to Findings of EMNLP 2026.
+  
 * APR 2026: Our paper [How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?](https://arxiv.org/abs/2602.02924) has been accepted at ICML 2026.
 
 * APR 2026: Our paper [Synthetic Data Generation for Training Diversified Commonsense Reasoning Models](https://arxiv.org/abs/2603.18361) has been accepted at ACL 2026.
